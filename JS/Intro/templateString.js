@@ -4,9 +4,9 @@ Template or string interpolations is a way to combine data and string for output
 
 //normal String Concatination
 let firstName = "Eugene"
-let secondName = "Jangu"
-let age = 20
-let address = "Kabiria"
+let secondName = "Oyier"
+let age = 25
+let address = "Crystal State"
 
 let userDetails=firstName + " " + secondName + " is " + age + " years old," + "she stays at " + address
 console.log(userDetails)
